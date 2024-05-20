@@ -14,7 +14,7 @@ function App() {
     };
     reader.readAsText(e.target.files[0])
   }
-
+//teste
   const [file,setFile] = useState()
 
   const [process, setProcess] = useState([])
